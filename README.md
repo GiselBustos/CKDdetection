@@ -22,7 +22,7 @@ Se desarrolló un modelo para predecir la **enfermedad renal crónica** a partir
 
 **Description**
 
-This project was carried out as the **Final Project of my diploma in Data Science** for the **Universidad Tecnológica Nacional (Argentina)**. A
+This project was carried out as the **Final Project of my diploma in Data Science** for the **Universidad Tecnológica Nacional (Argentina)**.
 
 A model was developed to predict **chronic kidney disease** from **clinical tests** (blood and urine) in order to detect it early and improve treatment. It was classified in two ways: 
 
